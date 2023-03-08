@@ -154,7 +154,7 @@ public class Gui extends JFrame {
         setLocationRelativeTo(null);
         setTitle("Tic Tac Toe");
         setVisible(true);
-        setSize(500, 500);
+        setSize(550, 550);
         setResizable(false);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
